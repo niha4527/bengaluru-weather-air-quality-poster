@@ -1,0 +1,9 @@
+.DS_Store
+.ruff_cache/
+__pycache__/
+# course/reference material, not our work
+Screenshot*.png
+1.png
+Blue Green and Pink Illustrated Information Poster.pdf
+Unit_5_Data_Visualization_Group_Assignment_Poster_Instructions.docx
+poster/preview.png
