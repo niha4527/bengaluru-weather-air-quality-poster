@@ -168,8 +168,8 @@ refs = """<section class="refs"><h2>References</h2>
 6. US EPA. AQI basics (US AQI categories). airnow.gov/aqi/aqi-basics</div></section>"""
 
 team = """<div class="team"><div class="meta">RV University · IDA · Unit 5 Data Visualization Group Assignment</div>
-<div class="lab">Team members</div><div class="row"><div>1. Hiranamyi Kiran Gudekota · 1RUA25CSE0191<br>2. Neharika Anant Gowda · 1RUA25CSE0290<br>3. Niharika K P · 1RUA25CSE0292</div>
-<div>4. Sai Yashasvi · 1RUA25CSE0407<br>5. Sonali · 1RUA25CSE0455</div></div></div>"""
+<div class="lab">Team members</div><div class="row"><div>1. Hiranamyi Kiran Gudekota · 1RUA25CSE0191<br>2. Neharika Anantha Gowda · 1RUA25CSE0290<br>3. Niharika K P · 1RUA25CSE0292</div>
+<div>4. Sai Yasasvi Kancharla · 1RUA25CSE0407<br>5. Sonali Ayyappa · 1RUA25CSE0455</div></div></div>"""
 
 html = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <title>Weather and Air Quality in Bengaluru, 2023–2025</title><style>{CSS}</style></head><body>

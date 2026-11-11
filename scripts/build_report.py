@@ -26,8 +26,9 @@ TEMPLATE = f"{root}/report template  (1).docx"
 OUT = f"{root}/report/Bengaluru_Weather_AQ_Report.docx"
 
 TITLE = "Weather and Air Quality in Bengaluru, 2023–2025: A Data Visualization Study"
-MEMBERS = [("Hiranamyi Kiran Gudekota", "1RUA25CSE0191"), ("Neharika Anant Gowda", "1RUA25CSE0290"),
-           ("Niharika K P", "1RUA25CSE0292"), ("Sai Yashasvi", "1RUA25CSE0407"), ("Sonali", "1RUA25CSE0455")]
+MEMBERS = [("Hiranamyi Kiran Gudekota", "1RUA25CSE0191"), ("Neharika Anantha Gowda", "1RUA25CSE0290"),
+           ("Niharika K P", "1RUA25CSE0292"), ("Sai Yasasvi Kancharla", "1RUA25CSE0407"), ("Sonali Ayyappa", "1RUA25CSE0455")]
+FACULTY = "Priyanka S Shivaramaiah"
 COURSE, CODE = "Introduction to Data Analysis", "CS2214"
 
 # ------------------------------------------------------------------ statistics
@@ -307,7 +308,7 @@ rich(p, f"This is to certify that the project work titled “**{TITLE}**” is p
         f"Bengaluru, as part of the **Continuous Internal Evaluation** for the course **{CODE} {COURSE}** offered in "
         "Semester III of Bachelor of Technology in Computer Science & Engineering, during the Academic year **2026-2027**.")
 para("", after=18)
-para("Name of Course Faculty:", 12, align="l", after=26, spacing=1.0)
+para(f"Name of Course Faculty: **{FACULTY}**", 12, align="l", after=26, spacing=1.0)
 para("Signature with date of Faculty:", 12, align="l", after=0, spacing=1.0)
 
 # ================================================================== TOC page (table inserted at the end)
